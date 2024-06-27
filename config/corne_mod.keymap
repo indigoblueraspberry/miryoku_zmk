@@ -19,7 +19,7 @@
         BASE {
             display-name = "Base";
             bindings = <
-&none  &kp Q         &kp W         &kp E          &kp P          &kp B          &kp J        &kp L          &kp U          &kp Y           &kp SQT        &none
+&none  &kp Q         &kp W         &kp E          &kp R          &kp B          &kp J        &kp L          &kp U          &kp Y           &kp SQT        &none
 &none  &u_mt LGUI A  &u_mt LALT R  &u_mt LCTRL S  &u_mt LSHFT T  &kp G          &kp M        &u_mt LSHFT N  &u_mt LCTRL E  &u_mt LALT I    &u_mt LGUI O   &none
 &none  &u_lt 3 Z     &u_mt RALT X  &kp C          &kp D          &kp V          &kp K        &kp H          &kp COMMA      &u_mt RALT DOT  &u_lt 3 SLASH  &none
                                    &u_lt 6 ESC    &u_lt 4 SPACE  &u_lt 5 TAB    &u_lt 8 RET  &u_lt 7 BSPC   &u_lt 9 DEL
